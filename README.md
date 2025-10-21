@@ -1,5 +1,8 @@
 ## Tools
 
+- [React Hook Form](https://www.react-hook-form.com/)
+- [React Toastify](https://github.com/fkhadra/react-toastify)
+
 - [Mi TOP bibliotecas para React.js este 2025](https://www.linkedin.com/posts/midudev_mi-top-bibliotecas-para-reactjs-este-2025-activity-7386384427641278464-pNhp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABMrg3ABRXhTK4CR62ZB6XSpmV0CS4stCcw)
   - Router → Wouter
   - Gráficas → Nivo
