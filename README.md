@@ -35,3 +35,6 @@
   - [The Story of Next.js](https://youtu.be/BILxV_vrZO0)
 - [midudev](https://www.youtube.com/@midudev)
   - [Curso REACT JS ⚛️ - Aprende desde CERO 📈](https://www.youtube.com/watch?v=T_j60n1zgu0&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC)
+
+## Posts/Guides
+- https://css-tricks.com/a-thorough-analysis-of-css-in-js/
