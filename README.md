@@ -28,13 +28,18 @@
 - https://www.epicreact.dev/
 - https://www.joyofreact.com/
 
+## Certificates
+- https://certificates.dev/react
+- https://www.coursera.org/professional-certificates/meta-front-end-developer
+
 ## Useful YouTube channels/videos
 
 - [ui.dev](https://www.youtube.com/@uidotdev)
   - [The Story of React Query](https://youtu.be/OrliU0e09io)
   - [The Story of Next.js](https://youtu.be/BILxV_vrZO0)
 - [midudev](https://www.youtube.com/@midudev)
-  - [Curso REACT JS ⚛️ - Aprende desde CERO 📈](https://www.youtube.com/watch?v=T_j60n1zgu0&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC)
+  - [CURSO REACT.JS - Aprende desde cero](https://youtu.be/7iobxzd_2wY?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29)
+  - [Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español)](https://youtu.be/T_j60n1zgu0?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC)
 
 ## Posts/Guides
 - https://css-tricks.com/a-thorough-analysis-of-css-in-js/
