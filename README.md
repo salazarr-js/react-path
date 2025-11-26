@@ -23,12 +23,18 @@ React learning path/timeline
 - [Tanstack Query](https://tanstack.com/query/latest)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 
-### Courses
-- https://cursoreact.dev/
+## Courses
 - https://fullstackopen.com/es/
 - https://ui.dev/subscribe
 - https://www.epicreact.dev/
 - https://www.joyofreact.com/
+- https://github.com/midudev/aprendiendo-react
+### MiduDev
+- https://github.com/midudev/aprendiendo-react?tab=readme-ov-file
+- https://cursoreact.dev/
+  - https://github.com/midudev/cursoreact.dev
+- [CURSO REACT.JS - Aprende desde cero](https://youtu.be/7iobxzd_2wY?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29)
+- [Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español)](https://youtu.be/T_j60n1zgu0?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC)
 
 ## Certificates
 - https://certificates.dev/react
@@ -38,9 +44,6 @@ React learning path/timeline
 - [ui.dev](https://www.youtube.com/@uidotdev)
   - [The Story of React Query](https://youtu.be/OrliU0e09io)
   - [The Story of Next.js](https://youtu.be/BILxV_vrZO0)
-- [midudev](https://www.youtube.com/@midudev)
-  - [CURSO REACT.JS - Aprende desde cero](https://youtu.be/7iobxzd_2wY?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29)
-  - [Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español)](https://youtu.be/T_j60n1zgu0?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC)
 
 ## Posts/Guides
 - https://css-tricks.com/a-thorough-analysis-of-css-in-js/
