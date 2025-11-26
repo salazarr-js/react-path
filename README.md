@@ -1,28 +1,30 @@
-## Tools
+# ⚛️ React Path
 
+React learning path/timeline
+
+## Resources
+
+## Tools/Services
+- [Wouter](https://github.com/molefrog/wouter)
 - [React Hook Form](https://www.react-hook-form.com/)
 - [React Toastify](https://github.com/fkhadra/react-toastify)
+- [Nivo](https://nivo.rocks/)
+- [react-i18next](https://react.i18next.com/)
+- [Tabler Icons](https://tabler.io/icons)
+- [DnDKit](https://dndkit.com/)
+- [Sonner](https://sonner.emilkowal.ski/)
+- [Motion](https://motion.dev/)
+- [nuqs](https://nuqs.dev/)
+- [React Three Fiber](https://r3f.docs.pmnd.rs/)
+- [Conform](https://conform.guide/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Better Auth](https://www.better-auth.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
+- [Tanstack Query](https://tanstack.com/query/latest)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 
-- [Mi TOP bibliotecas para React.js este 2025](https://www.linkedin.com/posts/midudev_mi-top-bibliotecas-para-reactjs-este-2025-activity-7386384427641278464-pNhp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABMrg3ABRXhTK4CR62ZB6XSpmV0CS4stCcw)
-  - Router → Wouter
-  - Gráficas → Nivo
-  - i18n → react-i18next
-  - Iconos → Tabler Icons
-  - Drag'n'Drop → DnDKit
-  - Estilos → TailwindCSS
-  - Notifications → Sonner
-  - Animaciones → Motion
-  - Estado en URL → nuqs
-  - 3D → React Three Fiber
-  - Formularios → Conform
-  - Estado global → Zustand
-  - Autenticación → Better Auth
-  - Componentes UI → Shadcn UI
-  - Data Fetching → Tanstack Query
-  - Testing → Vitest + testing-library
-
-## Courses
-
+### Courses
+- https://cursoreact.dev/
 - https://fullstackopen.com/es/
 - https://ui.dev/subscribe
 - https://www.epicreact.dev/
@@ -33,7 +35,6 @@
 - https://www.coursera.org/professional-certificates/meta-front-end-developer
 
 ## Useful YouTube channels/videos
-
 - [ui.dev](https://www.youtube.com/@uidotdev)
   - [The Story of React Query](https://youtu.be/OrliU0e09io)
   - [The Story of Next.js](https://youtu.be/BILxV_vrZO0)
@@ -43,3 +44,6 @@
 
 ## Posts/Guides
 - https://css-tricks.com/a-thorough-analysis-of-css-in-js/
+
+## Resources
+- https://www.reactjs.wiki/
