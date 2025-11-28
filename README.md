@@ -35,6 +35,8 @@ React learning path/timeline
   - https://github.com/midudev/cursoreact.dev
 - [CURSO REACT.JS - Aprende desde cero](https://youtu.be/7iobxzd_2wY?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29)
 - [Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español)](https://youtu.be/T_j60n1zgu0?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC)
+### Gentleman Programming
+- [REACT curso de 0 a EXPERTO 2025](https://youtu.be/GMnWXlJnbNo?list=PL42UNLc8e48QkcuPqCR8CzB4ZnSQqtNnc)
 
 ## Certificates
 - https://certificates.dev/react
